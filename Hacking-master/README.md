@@ -7,49 +7,23 @@
 
 
 
-# Wifi-Hacking.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
+# PHINET>NG  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
 
 
 
-No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For You Any Wifi-Password..!
-
+PHINET NG
 
 
 ## Feutures and Contains :
 
 
-```bash 
-1)Start monitor mode
 
-2)Stop monitor mode
-
-3)Scan Networks   
-
-4)Getting Handshake
-
-5)Create wordlist
-
-6)Install Wireless tools                  
-
-7)WPS Networks attacks 
-
-8)Scan for WPS Networks
-
-9)Crack Handshake with rockyou.txt
-
-10)Crack Handshake with wordlist
-
-11)Crack Handshake without wordlist
-```
 
 ## Tested On :
 
 * Kali Linux
-* BlackArch Linux
 * Ubuntu
-* Kali Nethunter
-* Termux
-* Parrot OS
+
 
 
 # Installation
@@ -59,44 +33,23 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ```bash
 1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/ankit0183/Wifi-Hacking
+2) sudo git clone https://github.com/theplayersh/ubuntu
 3) cd Wifi-Hacking/
 4) sudo python3 Wifi-Hacking.py
 ```
 
 ## Creator
 
-(Ankit Kanojiya) Hey, Dont Forget To say Thanks me :smile:
+(Phinet) Hey, Dont Forget To say Thanks me :smile:
 
 
 # SCREENSHOT
 
 
 
-![](Snapshots/0.png)
-![](Snapshots/1.png)
-![](Snapshots/2.png)
-![](Snapshots/3.png)
-![](Snapshots/4.png)
-![](Snapshots/5.png)
-![](Snapshots/6.png)
-![](Snapshots/7.png)
 
 
 
-
-
-# Feel Free To Contact Me.
-
-
-
-- [Instagram](https://www.instagram.com/ankit_kanojiya57/)
-
-
-- [Whats App](https://wa.me/+919768367597)
- 
-
-### Whats App Me: +919768367597   - [Click Hear](https://wa.me/+919768367597)
 
 
 
@@ -104,7 +57,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 # Disclaimer 
 
 
-Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
+This tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
 
 
 
@@ -114,14 +67,10 @@ Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it on
 
 
 
-###### Donation
 
-If this CyberSecurity tool has been useful for you, feel free to thank me by buying me a coffee. :)
  
  
  
- 
-### Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
 
 
 
