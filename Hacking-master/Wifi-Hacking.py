@@ -40,7 +40,7 @@ def intro():
 (14)Install more tools
 
 
-(0)About usr/share/metasploit-framework/service postgresql start && msfdb init && msfconsole start {} Phinet
+(0)About Phinet
 (00)Exit
 -----------------------------------------------------------------------
 """)
@@ -96,6 +96,7 @@ def intro():
             website = input("Which Website You want To Scan : ")
             os.system("nmap -v -A %s" % website)
             time.sleep(10)
+	    exit()
 	        
         elif op == 2:
             cls()
@@ -104,6 +105,7 @@ def intro():
             wep = input("Which Ip Do You Want To Scan :")
             os.system("nmap -v -sn %s" % wep)
             time.sleep(10)
+	    exit()
 
         elif op == 3:
             cls()
