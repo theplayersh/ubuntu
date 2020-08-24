@@ -95,13 +95,15 @@ def intro():
             print("")
             website = input("Which Website You want To Scan : ")
             os.system("nmap -v -A %s" % website)
-
+            time.sleep(10)
+	        
         elif op == 2:
             cls()
             logo()
             print("")
             wep = input("Which Ip Do You Want To Scan :")
             os.system("nmap -v -sn %s" % wep)
+            time.sleep(10)
 
         elif op == 3:
             cls()
@@ -126,10 +128,6 @@ def intro():
             print(
                 "This Tools Is Made For The Newbie That Do Not Know How to use Nmap The Hacking Tools Because The Nmap has a Litle Difficul Statements To Exexute Them By This Tools You Do Not Have To Write  Any Statements You Can Exexute Nmap and Scan Websites By Just Writing The Name Of The Website/Ip Advanced Options are also there For Some Experts")
             print("")
-            print("Author       -> Sarthak")
-            print("Posted on    -> Github")
-            print("Authors Age  -> 11 Years")
-            print("Intrested in -> Cyber Security,Ethical Hacking,Tech")
             print("")
 
         else:
