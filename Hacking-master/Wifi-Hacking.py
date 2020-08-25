@@ -120,7 +120,7 @@ def intro():
             print("Sure! Quiting.... Hope U Liked")
             sys.exit()
 
-        elif op == '4':
+        elif op == 4:
             cls()
             os.system("figlet -f slant About")
             print()
