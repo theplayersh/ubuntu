@@ -95,7 +95,7 @@ def intro():
             print("")
             website = input("Which Website You want To Scan : ")
             os.system("nmap -v -A %s" % website)
-            time.sleep(10)
+            time.sleep(120)
 	        
         elif op == 2:
             cls()
@@ -103,7 +103,7 @@ def intro():
             print("")
             wep = input("Which Ip Do You Want To Scan :")
             os.system("nmap -v -sn %s" % wep)
-            time.sleep(10)
+            time.sleep(120)
 	    
         elif op == 3:
             cls()
@@ -112,7 +112,7 @@ def intro():
             time.sleep(1)
             os.system("nmap")
             print("You Can use The By Typing 'Nmap <Option>'")
-            time.sleep(2)
+            time.sleep(20)
            
         elif op == 99:
             cls()
